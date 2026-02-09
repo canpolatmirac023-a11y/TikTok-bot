@@ -1,4 +1,4 @@
-# TikTok-bot
+Miraç Canpolat TikTok TikTok-bot
 Downloader Tiktok Bot
 
 ## Requirements
